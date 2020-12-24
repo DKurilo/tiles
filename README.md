@@ -39,7 +39,9 @@ X,12,9,13
 3,7,2,5
 4,8,6,1
 ```
-this combination require at least 80 turns to solve it. I found it [here](http://kociemba.org/themen/fifteen/fifteensolver.html)
-My result is 88 turns, good enough when using Manhattan distance:
+this combination require at least 80 turns to solve it. I found it [here](http://kociemba.org/themen/fifteen/fifteensolver.html)  
+My result is 88 turns, good enough when using Manhattan distance:  
+```
 [D,D,R,U,R,U,L,L,D,R,R,D,R,U,U,L,D,D,D,L,U,U,R,D,D,R,U,L,D,L,L,U,R,D,L,U,U,R,U,R,D,L,D,R,U,R,D,L,U,U,L,D,D,R,D,L,U,L,U,R,R,U,L,L,D,D,D,R,U,U,R,R,U,L,L,D,D,R,D,R,U,U,L,D,L,D,R,R]
+```
 It takse some time to find result, so be patient.
